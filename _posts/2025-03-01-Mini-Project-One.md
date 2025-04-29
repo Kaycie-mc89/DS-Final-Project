@@ -1,3 +1,9 @@
+
+---
+title: Mini Project One
+date: 2025-03-02
+---
+
 ---
 title: "Fur-tunate or Not? The Truth Behind Black Cat Adoption"
 author: "Kaycie McColley"
