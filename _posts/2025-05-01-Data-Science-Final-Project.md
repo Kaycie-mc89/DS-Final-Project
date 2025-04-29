@@ -2,12 +2,6 @@
 title: Data Science Final Project
 date: 2025-05-01
 ---
----
-title: "McColley DS Final"
-author: "Kaycie McColley"
-date: "`r Sys.Date()`"
-output: html_document
----
 
 # Does Your Height Make You A Better Swimmer?
 
