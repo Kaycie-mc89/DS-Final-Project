@@ -2,7 +2,6 @@
 title: Mini Project Two
 date: 2025-04-01
 ---
----
 # Names in Numbers: A Tutorial on how to use Data Wrangling to find Trends
 
 
