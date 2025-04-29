@@ -1,4 +1,8 @@
 ---
+title: Mini Project Two
+date: 2025-04-01
+---
+---
 title: "Names in Numbers: A Tutorial on how to use Data Wrangling to find Trends"
 author: "Kaycie McColley"
 date: "`r Sys.Date()`"
