@@ -4,12 +4,8 @@ title: Mini Project One
 date: 2025-03-02
 ---
 
----
-title: "Fur-tunate or Not? The Truth Behind Black Cat Adoption"
-author: "Kaycie McColley"
-date: "`r Sys.Date()`"
-output: html_document
----
+# Fur-tunate or Not? The Truth Behind Black Cat Adoption
+
  
 ```{r message=FALSE, warning=FALSE, include=FALSE}
 library(tidyverse)
