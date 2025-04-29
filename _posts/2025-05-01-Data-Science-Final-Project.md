@@ -5,7 +5,7 @@ date: 2025-05-01
 
 # Does Your Height Make You A Better Swimmer?
 
-```{r}
+```{r message=FALSE, warning=FALSE, include=FALSE}
 library(readr)
 library(dplyr)
 library(stringr)
