@@ -5,6 +5,7 @@ date: 2025-05-01
 
 # Does Your Height Make You A Better Swimmer?
 
+
 ## Introduction
 
 I spent most of my life outside of school in a pool growing up. I was a highly competitive USA swimmer where I specialized in long distance swimming. I was always an average height for female swimmers in my age group and I remember always hearing that no matter how hard you train, the taller you are, the faster you will naturally be in the water.
