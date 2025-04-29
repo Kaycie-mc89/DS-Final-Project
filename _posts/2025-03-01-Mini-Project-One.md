@@ -1,4 +1,3 @@
-
 ---
 title: Mini Project One
 date: 2025-03-02
