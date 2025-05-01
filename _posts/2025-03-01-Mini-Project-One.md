@@ -1,7 +1,4 @@
----
-title: Mini Project One
-date: 2025-03-02
----
+
 
 # Fur-tunate or Not? The Truth Behind Black Cat Adoption
 
