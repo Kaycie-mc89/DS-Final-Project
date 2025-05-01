@@ -1,7 +1,4 @@
----
-title: Data Science Final Project
-date: 2025-05-01
----
+
 
 # Does Your Height Make You A Better Swimmer?
 
