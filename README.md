@@ -1,5 +1,3 @@
-
-
 # Welcome to My Portfolio
 
 ## Biography:
@@ -24,7 +22,11 @@ I'm passionate about research that combines economics and public policy, especia
 
 This is my portfolio for sharing my projects in Data Science!
 
-## Projects
+## Mini Projects
 
 - [Mini Project 1](https://kaycie-mc89.github.io/DS-228-Mini-Project-1/McColley-Mini-Project-1.html)
 - [Mini Project 2](https://kaycie-mc89.github.io/DS-228-Mini-Project-2/McColley-Mini-Project-2.html)
+
+## Final Project
+
+- [Final Project: Data Science and Public Health](https://kaycie-mc89.github.io/DS-Final-Project/2025/05/01/Data-Science-Final-Project.html)
