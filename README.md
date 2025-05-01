@@ -23,3 +23,8 @@ I'm passionate about research that combines economics and public policy, especia
 ## Site Purpose
 
 This is my portfolio for sharing my projects in Data Science!
+
+## Projects
+
+- [Mini Project 1](https://kaycie-mc89.github.io/DS-228-Mini-Project-1/McColley-Mini-Project-1.html)
+- [Mini Project 2](https://kaycie-mc89.github.io/DS-228-Mini-Project-2/McColley-Mini-Project-2.html)
