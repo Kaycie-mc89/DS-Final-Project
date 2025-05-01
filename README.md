@@ -24,9 +24,9 @@ This is my portfolio for sharing my projects in Data Science!
 
 ## Mini Projects
 
-- [Mini Project 1](https://kaycie-mc89.github.io/DS-228-Mini-Project-1/McColley-Mini-Project-1.html)
-- [Mini Project 2](https://kaycie-mc89.github.io/DS-228-Mini-Project-2/McColley-Mini-Project-2.html)
+- [Mini Project 1: Fur-tunate or not?](https://kaycie-mc89.github.io/DS-Final-Project/2025/03/01/Mini-Project-One.html)
+- [Mini Project 2:Names in Numbers](https://kaycie-mc89.github.io/DS-Final-Project/2025/04/01/Mini-Project-Two.html)
 
 ## Final Project
 
-- [Final Project: Data Science and Public Health](https://kaycie-mc89.github.io/DS-Final-Project/2025/05/01/Data-Science-Final-Project.html)
+- [Final Project: Does Your Height Make You A Better Swimmer?](https://kaycie-mc89.github.io/DS-Final-Project/2025/05/01/Data-Science-Final-Project.html)
