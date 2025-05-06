@@ -29,4 +29,4 @@ This is my portfolio for sharing my projects in Data Science!
 
 ## Final Project
 
-- [Final Project: Does Your Height Make You A Better Swimmer?](McColley-DS-Final-Project.html)
+- [Final Project: Does Your Height Make You A Better Swimmer?](https://kaycie-mc89.github.io/DS-Final-Project/McColley-DS-Final-Project.html)
