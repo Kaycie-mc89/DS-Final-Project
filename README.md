@@ -24,7 +24,7 @@ This is my portfolio for sharing my projects in Data Science!
 
 ## Mini Projects
 
-- [Mini Project 1: Fur-tunate or not?](https://kaycie-mc89.github.io/DS-Final-Project/2025/03/01/Mini-Project-One.html)
+- [Mini Project 1: Fur-tunate or not?](https://kaycie-mc89.github.io/DS-Final-Project/fur-tunate-or-not.html)
 - [Mini Project 2:Names in Numbers](https://kaycie-mc89.github.io/DS-Final-Project/McColley-Mini-Project-2.html)
 
 ## Final Project
